@@ -1,0 +1,501 @@
+Order_ID,Date,Airline,Region,Route,Flight_Type,Customer_Segment,Passengers,Sales,Cost,Profit
+AS10447,2025-01-01,IndiGo,East,Bengaluru-Kolkata,Domestic,Business,179,1990301,1399412,590889
+AS10264,2025-01-02,Vistara,South,Bengaluru-Kolkata,Domestic,Leisure,57,510207,376995,133212
+AS10207,2025-01-02,Vistara,West,Chennai-Delhi,Domestic,Student,155,1842330,1295626,546704
+AS10064,2025-01-02,Air India Express,West,Mumbai-Hyderabad,Domestic,Corporate,91,977431,877196,100235
+AS10497,2025-01-04,Air India Express,North,Bengaluru-Kolkata,Domestic,Corporate,35,225715,180040,45675
+AS10326,2025-01-04,Vistara,West,Delhi-Bengaluru,Domestic,Business,50,209600,174085,35515
+AS10129,2025-01-05,Air India,East,Delhi-Kolkata,Domestic,Leisure,183,2092605,1859583,233022
+AS10416,2025-01-05,Vistara,South,Delhi-Kolkata,Domestic,Student,149,1147151,942053,205098
+AS10335,2025-01-06,Vistara,Central,Mumbai-Bengaluru,Domestic,Leisure,37,200281,174524,25757
+AS10098,2025-01-09,Akasa Air,Central,Mumbai-Hyderabad,Domestic,Student,189,1461348,1246232,215116
+AS10270,2025-01-09,Air India,East,Delhi-Kolkata,Domestic,Corporate,167,1192714,941858,250856
+AS10485,2025-01-10,Air India Express,North,Delhi-Bengaluru,International,Corporate,67,454059,270769,183290
+AS10152,2025-01-13,Akasa Air,North,Mumbai-Chennai,Domestic,Corporate,161,1398124,1137786,260338
+AS10379,2025-01-13,IndiGo,South,Mumbai-Chennai,Domestic,Leisure,68,452608,360595,92013
+AS10051,2025-01-14,SpiceJet,Central,Mumbai-Hyderabad,Domestic,Leisure,55,599390,412443,186947
+AS10135,2025-01-15,SpiceJet,South,Mumbai-Chennai,International,Student,147,1113084,874931,238153
+AS10093,2025-01-15,Vistara,Central,Mumbai-Hyderabad,Domestic,Business,176,1544576,1162052,382524
+AS10498,2025-01-16,IndiGo,North,Mumbai-Hyderabad,International,Corporate,184,1226912,1079683,147229
+AS10330,2025-01-17,Air India Express,East,Delhi-Kolkata,International,Leisure,143,809523,560917,248606
+AS10353,2025-01-18,Air India,South,Chennai-Delhi,Domestic,Corporate,22,171952,112289,59663
+AS10384,2025-01-20,IndiGo,North,Delhi-Hyderabad,Domestic,Corporate,125,826125,750028,76097
+AS10045,2025-01-21,IndiGo,East,Mumbai-Bengaluru,International,Leisure,51,241638,195109,46529
+AS10007,2025-01-21,IndiGo,East,Delhi-Hyderabad,Domestic,Student,11,75493,43535,31958
+AS10308,2025-01-22,Vistara,West,Mumbai-Delhi,Domestic,Student,109,1191588,885108,306480
+AS10026,2025-01-22,Air India Express,Central,Delhi-Hyderabad,Domestic,Student,65,465075,424248,40827
+AS10483,2025-01-23,SpiceJet,West,Chennai-Delhi,Domestic,Business,214,1692312,1431741,260571
+AS10376,2025-01-26,SpiceJet,South,Mumbai-Bengaluru,Domestic,Corporate,44,393580,291349,102231
+AS10317,2025-01-27,Air India Express,Central,Delhi-Kolkata,International,Student,45,185760,126015,59745
+AS10165,2025-01-28,IndiGo,North,Mumbai-Bengaluru,Domestic,Corporate,177,2038332,1127089,911243
+AS10110,2025-01-28,Air India Express,South,Bengaluru-Kolkata,Domestic,Leisure,85,317390,244414,72976
+AS10150,2025-01-29,Vistara,Central,Mumbai-Chennai,Domestic,Student,12,48468,30423,18045
+AS10115,2025-02-02,Vistara,West,Delhi-Hyderabad,Domestic,Corporate,107,897516,657516,240000
+AS10306,2025-02-02,Air India Express,North,Mumbai-Bengaluru,Domestic,Corporate,132,619872,438650,181222
+AS10327,2025-02-04,Air India Express,Central,Delhi-Kolkata,International,Student,6,39972,26523,13449
+AS10059,2025-02-04,Air India,West,Delhi-Bengaluru,Domestic,Student,67,735660,451997,283663
+AS10124,2025-02-04,SpiceJet,East,Delhi-Bengaluru,Domestic,Business,88,807136,571592,235544
+AS10151,2025-02-05,SpiceJet,South,Bengaluru-Kolkata,Domestic,Corporate,189,937629,613194,324435
+AS10382,2025-02-05,SpiceJet,North,Mumbai-Hyderabad,International,Leisure,191,1778210,1512730,265480
+AS10338,2025-02-06,Akasa Air,South,Mumbai-Bengaluru,International,Corporate,101,634280,479790,154490
+AS10268,2025-02-06,Air India,East,Delhi-Hyderabad,Domestic,Corporate,161,663159,368017,295142
+AS10311,2025-02-07,Akasa Air,Central,Mumbai-Hyderabad,Domestic,Leisure,158,1609862,1337224,272638
+AS10373,2025-02-08,Vistara,East,Delhi-Kolkata,Domestic,Corporate,174,1440024,1209614,230410
+AS10250,2025-02-08,IndiGo,Central,Bengaluru-Kolkata,Domestic,Student,98,988722,693098,295624
+AS10477,2025-02-08,Air India Express,West,Delhi-Kolkata,Domestic,Business,189,2032884,1637592,395292
+AS10091,2025-02-10,Air India Express,South,Pune-Delhi,Domestic,Student,142,1415456,1300262,115194
+AS10109,2025-02-10,IndiGo,East,Delhi-Bengaluru,Domestic,Business,39,284544,219362,65182
+AS10137,2025-02-11,Air India Express,West,Mumbai-Delhi,Domestic,Corporate,77,610148,448330,161818
+AS10167,2025-02-13,Akasa Air,East,Delhi-Hyderabad,Domestic,Student,84,671412,479403,192009
+AS10071,2025-02-13,Air India,South,Delhi-Bengaluru,Domestic,Student,6,62076,42998,19078
+AS10161,2025-02-14,SpiceJet,Central,Delhi-Kolkata,Domestic,Student,87,630576,514934,115642
+AS10334,2025-02-15,Air India Express,West,Mumbai-Bengaluru,Domestic,Student,125,962500,836181,126319
+AS10471,2025-02-16,Akasa Air,East,Mumbai-Delhi,Domestic,Business,38,203490,164822,38668
+AS10422,2025-02-16,Akasa Air,Central,Delhi-Bengaluru,Domestic,Leisure,169,660114,455661,204453
+AS10453,2025-02-17,Akasa Air,West,Mumbai-Chennai,Domestic,Student,179,1080265,618369,461896
+AS10116,2025-02-17,Vistara,Central,Delhi-Bengaluru,Domestic,Leisure,54,503928,329983,173945
+AS10329,2025-02-18,IndiGo,Central,Delhi-Bengaluru,Domestic,Leisure,125,813500,661967,151533
+AS10030,2025-02-18,IndiGo,South,Chennai-Delhi,Domestic,Student,175,978600,612254,366346
+AS10062,2025-02-19,IndiGo,North,Delhi-Hyderabad,Domestic,Student,216,2200392,1708682,491710
+AS10314,2025-02-20,Akasa Air,Central,Delhi-Kolkata,Domestic,Student,187,1481414,1205718,275696
+AS10395,2025-02-20,IndiGo,West,Delhi-Hyderabad,Domestic,Business,152,1056400,956706,99694
+AS10037,2025-02-20,IndiGo,South,Mumbai-Delhi,Domestic,Leisure,15,165705,124834,40871
+AS10198,2025-02-21,Air India,North,Delhi-Kolkata,Domestic,Business,51,412029,301221,110808
+AS10143,2025-02-21,Air India,West,Delhi-Kolkata,Domestic,Corporate,108,1280124,1075926,204198
+AS10413,2025-02-22,Akasa Air,North,Mumbai-Delhi,Domestic,Leisure,173,1057030,734128,322902
+AS10086,2025-02-22,Air India,Central,Chennai-Delhi,Domestic,Corporate,185,982165,833524,148641
+AS10216,2025-02-22,IndiGo,East,Mumbai-Hyderabad,Domestic,Business,2,20366,12459,7907
+AS10055,2025-02-22,IndiGo,West,Mumbai-Bengaluru,International,Leisure,4,15744,12058,3686
+AS10356,2025-02-23,SpiceJet,East,Delhi-Hyderabad,Domestic,Student,165,1331550,763460,568090
+AS10410,2025-02-23,SpiceJet,West,Mumbai-Hyderabad,Domestic,Corporate,98,906892,813675,93217
+AS10210,2025-02-23,Akasa Air,West,Mumbai-Hyderabad,Domestic,Student,93,630168,374920,255248
+AS10065,2025-02-23,SpiceJet,East,Delhi-Bengaluru,Domestic,Student,183,2040633,1127393,913240
+AS10278,2025-02-23,SpiceJet,West,Mumbai-Bengaluru,Domestic,Leisure,56,330904,285812,45092
+AS10039,2025-02-24,IndiGo,North,Mumbai-Bengaluru,International,Business,147,1595685,962610,633075
+AS10357,2025-02-27,IndiGo,East,Bengaluru-Kolkata,International,Business,49,184730,154695,30035
+AS10437,2025-02-27,Air India Express,East,Mumbai-Hyderabad,Domestic,Business,75,843150,498068,345082
+AS10445,2025-02-27,Air India,Central,Mumbai-Delhi,Domestic,Student,192,972864,804251,168613
+AS10403,2025-02-27,Air India,East,Delhi-Kolkata,International,Corporate,101,811838,451662,360176
+AS10031,2025-02-28,Vistara,South,Bengaluru-Kolkata,Domestic,Student,168,945840,702088,243752
+AS10263,2025-03-01,Air India Express,Central,Pune-Delhi,Domestic,Corporate,160,1705600,1273543,432057
+AS10414,2025-03-01,Air India,Central,Mumbai-Bengaluru,Domestic,Leisure,47,216388,124564,91824
+AS10117,2025-03-03,IndiGo,Central,Delhi-Hyderabad,Domestic,Business,126,1338372,1125711,212661
+AS10162,2025-03-03,IndiGo,Central,Delhi-Bengaluru,Domestic,Leisure,158,1054334,902299,152035
+AS10398,2025-03-04,Air India,West,Delhi-Kolkata,Domestic,Corporate,85,734485,514304,220181
+AS10102,2025-03-04,SpiceJet,Central,Bengaluru-Kolkata,Domestic,Corporate,190,1087560,741399,346161
+AS10139,2025-03-04,SpiceJet,Central,Mumbai-Chennai,Domestic,Corporate,46,340078,205211,134867
+AS10095,2025-03-06,SpiceJet,West,Delhi-Kolkata,Domestic,Business,56,460768,372909,87859
+AS10159,2025-03-07,Vistara,East,Bengaluru-Kolkata,Domestic,Leisure,91,1044862,939055,105807
+AS10299,2025-03-09,Air India,South,Chennai-Delhi,International,Student,162,950778,819247,131531
+AS10459,2025-03-10,SpiceJet,Central,Delhi-Kolkata,Domestic,Student,48,310656,249677,60979
+AS10470,2025-03-10,Air India Express,East,Pune-Delhi,Domestic,Student,63,283437,218192,65245
+AS10005,2025-03-13,Akasa Air,North,Bengaluru-Kolkata,Domestic,Leisure,12,92496,62285,30211
+AS10282,2025-03-16,SpiceJet,East,Chennai-Delhi,Domestic,Corporate,148,1641912,1214926,426986
+AS10463,2025-03-17,IndiGo,East,Mumbai-Hyderabad,Domestic,Business,173,777116,680907,96209
+AS10061,2025-03-22,Akasa Air,East,Pune-Delhi,Domestic,Corporate,194,2073860,1485218,588642
+AS10204,2025-03-22,SpiceJet,Central,Pune-Delhi,Domestic,Corporate,3,17121,11296,5825
+AS10104,2025-03-22,SpiceJet,North,Mumbai-Chennai,Domestic,Corporate,43,412413,238598,173815
+AS10157,2025-03-27,Vistara,Central,Mumbai-Bengaluru,International,Business,8,41384,30668,10716
+AS10466,2025-03-27,Vistara,East,Mumbai-Chennai,Domestic,Student,113,648620,510952,137668
+AS10012,2025-03-29,SpiceJet,Central,Delhi-Kolkata,Domestic,Student,69,798192,655627,142565
+AS10454,2025-03-30,Air India,Central,Delhi-Hyderabad,International,Corporate,175,1342775,1079048,263727
+AS10049,2025-03-30,Akasa Air,West,Pune-Delhi,International,Business,179,1288979,1014946,274033
+AS10057,2025-04-02,Air India,East,Mumbai-Bengaluru,Domestic,Corporate,76,384256,246816,137440
+AS10389,2025-04-02,SpiceJet,North,Pune-Delhi,Domestic,Business,179,2147463,1716844,430619
+AS10436,2025-04-02,IndiGo,West,Delhi-Bengaluru,Domestic,Student,102,704616,612696,91920
+AS10472,2025-04-04,IndiGo,West,Pune-Delhi,Domestic,Student,67,778875,447553,331322
+AS10343,2025-04-05,Air India Express,West,Mumbai-Bengaluru,Domestic,Corporate,18,83376,75425,7951
+AS10450,2025-04-06,Air India,South,Delhi-Bengaluru,Domestic,Corporate,219,2569746,1964567,605179
+AS10144,2025-04-06,Air India,East,Mumbai-Bengaluru,International,Student,19,142044,109597,32447
+AS10193,2025-04-06,SpiceJet,East,Mumbai-Bengaluru,Domestic,Corporate,75,472725,311761,160964
+AS10494,2025-04-06,Vistara,North,Mumbai-Hyderabad,International,Business,194,1299218,881620,417598
+AS10234,2025-04-07,Akasa Air,North,Mumbai-Delhi,Domestic,Corporate,38,232028,208753,23275
+AS10321,2025-04-07,SpiceJet,South,Mumbai-Bengaluru,Domestic,Student,174,1292646,1000511,292135
+AS10230,2025-04-08,Air India,North,Pune-Delhi,Domestic,Student,127,580644,389724,190920
+AS10289,2025-04-09,SpiceJet,Central,Delhi-Kolkata,Domestic,Student,171,1661607,1362213,299394
+AS10272,2025-04-09,Air India,Central,Delhi-Kolkata,Domestic,Business,184,2196224,1436168,760056
+AS10257,2025-04-09,IndiGo,South,Mumbai-Delhi,Domestic,Leisure,41,163672,135598,28074
+AS10344,2025-04-09,IndiGo,South,Mumbai-Chennai,International,Student,201,843999,598819,245180
+AS10120,2025-04-09,IndiGo,West,Mumbai-Bengaluru,Domestic,Leisure,37,171088,110136,60952
+AS10336,2025-04-09,Vistara,North,Mumbai-Chennai,International,Business,170,1533400,1254332,279068
+AS10013,2025-04-10,Vistara,South,Delhi-Hyderabad,International,Business,48,275280,163238,112042
+AS10478,2025-04-10,SpiceJet,North,Delhi-Bengaluru,Domestic,Corporate,31,224161,172784,51377
+AS10488,2025-04-10,Vistara,Central,Mumbai-Bengaluru,International,Student,42,339990,273946,66044
+AS10411,2025-04-11,Air India,East,Mumbai-Hyderabad,Domestic,Leisure,11,69300,48751,20549
+AS10202,2025-04-11,Air India Express,West,Delhi-Kolkata,Domestic,Corporate,39,308178,230147,78031
+AS10126,2025-04-11,Air India Express,West,Chennai-Delhi,Domestic,Business,51,350574,296549,54025
+AS10417,2025-04-13,SpiceJet,North,Mumbai-Hyderabad,Domestic,Business,139,1022206,817934,204272
+AS10001,2025-04-13,IndiGo,East,Mumbai-Chennai,Domestic,Student,62,706862,547137,159725
+AS10008,2025-04-13,Vistara,South,Delhi-Bengaluru,Domestic,Student,64,225536,141185,84351
+AS10369,2025-04-14,Air India Express,East,Mumbai-Hyderabad,International,Student,160,1353280,1189170,164110
+AS10284,2025-04-14,SpiceJet,West,Pune-Delhi,Domestic,Corporate,157,1125219,715271,409948
+AS10066,2025-04-16,Akasa Air,Central,Delhi-Hyderabad,Domestic,Corporate,105,952875,796366,156509
+AS10429,2025-04-16,Vistara,Central,Delhi-Kolkata,Domestic,Student,154,927696,805784,121912
+AS10004,2025-04-17,Vistara,East,Chennai-Delhi,Domestic,Leisure,158,1001878,582141,419737
+AS10166,2025-04-18,Akasa Air,North,Mumbai-Delhi,Domestic,Student,175,1839425,1640928,198497
+AS10415,2025-04-18,Air India,North,Mumbai-Chennai,Domestic,Leisure,140,1520540,1195416,325124
+AS10288,2025-04-22,Air India,South,Bengaluru-Kolkata,Domestic,Business,163,972784,560227,412557
+AS10262,2025-04-22,Air India,Central,Chennai-Delhi,Domestic,Student,48,545568,357695,187873
+AS10203,2025-04-23,Air India,South,Delhi-Kolkata,International,Business,28,225456,189854,35602
+AS10283,2025-04-23,SpiceJet,West,Bengaluru-Kolkata,International,Student,19,164502,150685,13817
+AS10196,2025-04-23,Vistara,Central,Mumbai-Chennai,Domestic,Student,142,599098,489531,109567
+AS10206,2025-04-23,Air India Express,North,Pune-Delhi,Domestic,Student,198,2062962,1398141,664821
+AS10201,2025-04-23,Air India,South,Mumbai-Delhi,Domestic,Corporate,121,1318295,1145993,172302
+AS10362,2025-04-24,Air India Express,South,Chennai-Delhi,Domestic,Student,53,615860,515016,100844
+AS10178,2025-04-26,Air India,East,Chennai-Delhi,Domestic,Leisure,168,1247064,858232,388832
+AS10346,2025-04-26,Air India,West,Delhi-Kolkata,Domestic,Leisure,29,284113,212318,71795
+AS10281,2025-04-26,SpiceJet,South,Delhi-Bengaluru,International,Corporate,47,492372,352871,139501
+AS10440,2025-04-27,Air India,South,Delhi-Hyderabad,Domestic,Corporate,216,1237680,705631,532049
+AS10452,2025-04-28,SpiceJet,North,Mumbai-Delhi,Domestic,Corporate,92,643080,579437,63643
+AS10433,2025-04-30,Akasa Air,East,Mumbai-Chennai,Domestic,Leisure,96,466848,420725,46123
+AS10279,2025-04-30,Air India Express,East,Pune-Delhi,Domestic,Leisure,65,760435,571745,188690
+AS10177,2025-05-01,Air India,North,Mumbai-Chennai,Domestic,Student,156,1054404,826568,227836
+AS10009,2025-05-02,Akasa Air,East,Pune-Delhi,Domestic,Business,50,482200,333264,148936
+AS10446,2025-05-02,Air India Express,South,Bengaluru-Kolkata,Domestic,Student,209,972059,826051,146008
+AS10225,2025-05-03,SpiceJet,North,Chennai-Delhi,Domestic,Leisure,218,2201582,1920755,280827
+AS10236,2025-05-04,Akasa Air,East,Delhi-Hyderabad,Domestic,Corporate,21,173901,127540,46361
+AS10428,2025-05-04,Vistara,South,Chennai-Delhi,Domestic,Business,147,614460,450297,164163
+AS10400,2025-05-05,IndiGo,Central,Delhi-Bengaluru,International,Business,28,153748,89124,64624
+AS10451,2025-05-06,Air India,West,Delhi-Bengaluru,Domestic,Business,82,443374,318155,125219
+AS10214,2025-05-06,Akasa Air,North,Mumbai-Delhi,International,Student,94,819962,515264,304698
+AS10366,2025-05-07,Vistara,West,Delhi-Bengaluru,Domestic,Corporate,131,1345501,971016,374485
+AS10443,2025-05-07,IndiGo,West,Chennai-Delhi,Domestic,Corporate,155,1643930,946618,697312
+AS10352,2025-05-08,IndiGo,East,Mumbai-Hyderabad,Domestic,Corporate,109,728120,525231,202889
+AS10305,2025-05-08,IndiGo,North,Mumbai-Bengaluru,Domestic,Leisure,31,160456,122744,37712
+AS10249,2025-05-08,Air India Express,East,Chennai-Delhi,Domestic,Student,108,663660,530331,133329
+AS10171,2025-05-08,Vistara,North,Chennai-Delhi,International,Student,68,418948,242300,176648
+AS10253,2025-05-09,SpiceJet,East,Delhi-Bengaluru,Domestic,Business,195,1025115,834871,190244
+AS10100,2025-05-09,Akasa Air,North,Pune-Delhi,Domestic,Leisure,46,369058,327451,41607
+AS10444,2025-05-09,Air India,West,Delhi-Bengaluru,Domestic,Business,203,1354213,1022748,331465
+AS10208,2025-05-10,Air India,North,Chennai-Delhi,Domestic,Leisure,117,667368,547904,119464
+AS10215,2025-05-10,SpiceJet,Central,Delhi-Hyderabad,International,Business,40,165200,109869,55331
+AS10016,2025-05-11,Akasa Air,West,Mumbai-Hyderabad,Domestic,Leisure,195,2329860,1799602,530258
+AS10276,2025-05-11,Air India,North,Chennai-Delhi,International,Student,196,1737736,1072596,665140
+AS10127,2025-05-11,SpiceJet,West,Delhi-Kolkata,Domestic,Business,59,296121,199418,96703
+AS10042,2025-05-11,Akasa Air,North,Mumbai-Delhi,Domestic,Student,93,563115,502548,60567
+AS10163,2025-05-14,Akasa Air,South,Delhi-Kolkata,Domestic,Student,175,930125,665127,264998
+AS10044,2025-05-15,SpiceJet,East,Mumbai-Bengaluru,Domestic,Student,21,135471,96081,39390
+AS10303,2025-05-15,IndiGo,South,Mumbai-Bengaluru,International,Leisure,204,2268072,1334445,933627
+AS10111,2025-05-15,IndiGo,North,Delhi-Bengaluru,Domestic,Student,177,1257939,865102,392837
+AS10101,2025-05-16,Vistara,Central,Mumbai-Bengaluru,Domestic,Business,113,1025023,574952,450071
+AS10183,2025-05-17,IndiGo,South,Delhi-Hyderabad,Domestic,Leisure,143,1053338,609595,443743
+AS10103,2025-05-19,Akasa Air,East,Mumbai-Chennai,Domestic,Leisure,136,1616904,898757,718147
+AS10267,2025-05-20,SpiceJet,Central,Delhi-Hyderabad,Domestic,Business,124,1190648,868229,322419
+AS10387,2025-05-22,SpiceJet,East,Chennai-Delhi,Domestic,Business,98,933744,836094,97650
+AS10148,2025-05-23,Air India Express,West,Chennai-Delhi,International,Leisure,189,1884141,1363598,520543
+AS10388,2025-05-23,Air India Express,South,Delhi-Kolkata,Domestic,Business,139,743511,629381,114130
+AS10426,2025-05-24,IndiGo,South,Delhi-Bengaluru,Domestic,Student,17,121788,88130,33658
+AS10465,2025-05-24,Akasa Air,South,Pune-Delhi,Domestic,Student,81,711747,611036,100711
+AS10233,2025-05-24,SpiceJet,West,Delhi-Kolkata,Domestic,Student,152,1687960,942206,745754
+AS10260,2025-05-24,SpiceJet,West,Chennai-Delhi,Domestic,Student,104,879632,550008,329624
+AS10432,2025-05-25,Vistara,South,Delhi-Bengaluru,Domestic,Leisure,52,408564,300899,107665
+AS10493,2025-05-27,Vistara,North,Pune-Delhi,Domestic,Leisure,204,1760724,1051744,708980
+AS10431,2025-05-27,Air India Express,East,Delhi-Kolkata,Domestic,Leisure,108,946080,849366,96714
+AS10273,2025-05-27,SpiceJet,West,Delhi-Kolkata,Domestic,Leisure,156,997620,625451,372169
+AS10244,2025-05-27,Vistara,South,Delhi-Kolkata,Domestic,Business,73,458659,383441,75218
+AS10325,2025-05-27,Vistara,South,Mumbai-Hyderabad,Domestic,Student,51,431256,323618,107638
+AS10245,2025-05-28,SpiceJet,Central,Mumbai-Chennai,Domestic,Corporate,181,1293064,1166387,126677
+AS10241,2025-05-28,SpiceJet,West,Mumbai-Delhi,Domestic,Leisure,99,909315,538574,370741
+AS10401,2025-05-30,SpiceJet,West,Pune-Delhi,Domestic,Corporate,5,59815,39807,20008
+AS10017,2025-05-30,Vistara,North,Mumbai-Bengaluru,Domestic,Student,172,1246484,1142320,104164
+AS10365,2025-05-31,Vistara,South,Pune-Delhi,Domestic,Corporate,179,1953785,1231618,722167
+AS10255,2025-05-31,Air India Express,North,Mumbai-Chennai,Domestic,Leisure,172,1571564,1289605,281959
+AS10190,2025-06-01,SpiceJet,East,Delhi-Bengaluru,Domestic,Business,202,1958996,1412205,546791
+AS10277,2025-06-01,SpiceJet,Central,Mumbai-Chennai,Domestic,Student,165,1107480,913604,193876
+AS10015,2025-06-01,SpiceJet,East,Chennai-Delhi,Domestic,Business,101,1201092,1009577,191515
+AS10290,2025-06-02,Air India Express,West,Delhi-Hyderabad,Domestic,Business,219,1559061,1208445,350616
+AS10396,2025-06-02,Air India Express,East,Delhi-Hyderabad,Domestic,Corporate,19,203566,179124,24442
+AS10464,2025-06-03,Air India,South,Mumbai-Hyderabad,Domestic,Business,81,940572,720727,219845
+AS10367,2025-06-04,Air India,West,Mumbai-Bengaluru,Domestic,Leisure,42,158676,102771,55905
+AS10092,2025-06-06,Akasa Air,West,Pune-Delhi,Domestic,Business,35,330785,209980,120805
+AS10310,2025-06-07,IndiGo,South,Mumbai-Delhi,Domestic,Corporate,69,470442,376666,93776
+AS10333,2025-06-07,IndiGo,South,Mumbai-Chennai,Domestic,Corporate,122,888892,686149,202743
+AS10430,2025-06-07,Vistara,North,Bengaluru-Kolkata,Domestic,Student,48,269760,194397,75363
+AS10269,2025-06-09,IndiGo,Central,Delhi-Bengaluru,Domestic,Business,152,666064,467312,198752
+AS10153,2025-06-09,Air India Express,West,Delhi-Bengaluru,Domestic,Business,45,168030,93130,74900
+AS10192,2025-06-09,Akasa Air,East,Bengaluru-Kolkata,International,Student,51,309366,171668,137698
+AS10219,2025-06-09,IndiGo,Central,Chennai-Delhi,Domestic,Business,12,110280,74350,35930
+AS10349,2025-06-10,Akasa Air,East,Delhi-Bengaluru,Domestic,Student,175,993825,629355,364470
+AS10280,2025-06-10,Vistara,South,Mumbai-Chennai,Domestic,Corporate,193,1336139,1220204,115935
+AS10298,2025-06-10,Air India Express,North,Mumbai-Bengaluru,Domestic,Business,136,1151512,987543,163969
+AS10024,2025-06-10,SpiceJet,East,Mumbai-Chennai,Domestic,Corporate,209,960982,565206,395776
+AS10072,2025-06-11,Air India Express,West,Chennai-Delhi,Domestic,Student,214,1242698,1113977,128721
+AS10105,2025-06-12,Air India,West,Mumbai-Hyderabad,Domestic,Business,148,1459428,1294705,164723
+AS10295,2025-06-12,SpiceJet,North,Delhi-Bengaluru,Domestic,Leisure,38,259388,176248,83140
+AS10185,2025-06-14,SpiceJet,East,Delhi-Hyderabad,Domestic,Student,167,955574,648920,306654
+AS10047,2025-06-16,Vistara,Central,Delhi-Hyderabad,Domestic,Corporate,20,149300,87202,62098
+AS10297,2025-06-18,Akasa Air,East,Delhi-Bengaluru,Domestic,Corporate,69,394473,272310,122163
+AS10160,2025-06-19,SpiceJet,North,Bengaluru-Kolkata,Domestic,Corporate,174,974400,805153,169247
+AS10374,2025-06-19,Vistara,Central,Bengaluru-Kolkata,Domestic,Corporate,127,549148,389194,159954
+AS10032,2025-06-19,Air India,Central,Mumbai-Delhi,Domestic,Leisure,76,664392,383617,280775
+AS10407,2025-06-19,Air India Express,South,Mumbai-Bengaluru,Domestic,Corporate,64,587456,351932,235524
+AS10149,2025-06-20,Akasa Air,Central,Mumbai-Bengaluru,Domestic,Corporate,109,732480,410536,321944
+AS10189,2025-06-21,Air India Express,East,Delhi-Hyderabad,Domestic,Student,105,1231020,834101,396919
+AS10121,2025-06-21,IndiGo,Central,Bengaluru-Kolkata,Domestic,Leisure,49,446929,409134,37795
+AS10331,2025-06-21,IndiGo,North,Chennai-Delhi,Domestic,Business,30,355350,272818,82532
+AS10217,2025-06-21,Akasa Air,East,Delhi-Bengaluru,International,Student,81,305937,195854,110083
+AS10383,2025-06-22,SpiceJet,North,Delhi-Kolkata,Domestic,Corporate,24,226416,183743,42673
+AS10360,2025-06-23,IndiGo,East,Delhi-Bengaluru,Domestic,Leisure,109,716675,654914,61761
+AS10036,2025-06-24,IndiGo,Central,Mumbai-Chennai,Domestic,Business,47,536411,420202,116209
+AS10372,2025-06-25,Air India,North,Delhi-Hyderabad,Domestic,Student,85,977245,847764,129481
+AS10307,2025-06-25,Air India Express,East,Chennai-Delhi,Domestic,Student,113,710431,534792,175639
+AS10138,2025-06-28,Vistara,South,Chennai-Delhi,Domestic,Business,127,855599,639953,215646
+AS10406,2025-06-29,Air India,North,Bengaluru-Kolkata,Domestic,Corporate,147,930804,618345,312459
+AS10490,2025-06-29,Air India Express,West,Delhi-Hyderabad,Domestic,Business,126,1359666,1059216,300450
+AS10195,2025-06-29,Vistara,West,Delhi-Hyderabad,Domestic,Corporate,10,96550,67788,28762
+AS10342,2025-06-30,Akasa Air,Central,Mumbai-Delhi,Domestic,Business,196,1909432,1368656,540776
+AS10224,2025-07-03,Akasa Air,South,Delhi-Hyderabad,Domestic,Student,207,1503648,1246419,257229
+AS10467,2025-07-04,IndiGo,Central,Delhi-Bengaluru,Domestic,Business,96,477696,276617,201079
+AS10397,2025-07-05,IndiGo,South,Chennai-Delhi,Domestic,Business,165,1206315,1042492,163823
+AS10205,2025-07-06,Air India Express,North,Chennai-Delhi,Domestic,Corporate,84,665784,499542,166242
+AS10155,2025-07-06,IndiGo,North,Delhi-Kolkata,Domestic,Student,103,1130940,1008674,122266
+AS10237,2025-07-06,SpiceJet,South,Delhi-Bengaluru,Domestic,Corporate,182,1239966,1110088,129878
+AS10345,2025-07-07,Vistara,South,Delhi-Hyderabad,Domestic,Student,113,1239610,933744,305866
+AS10033,2025-07-07,IndiGo,South,Pune-Delhi,Domestic,Corporate,182,1664754,1288567,376187
+AS10090,2025-07-07,Akasa Air,East,Mumbai-Delhi,Domestic,Student,168,997416,710362,287054
+AS10457,2025-07-08,Vistara,South,Delhi-Hyderabad,Domestic,Corporate,109,904264,649102,255162
+AS10006,2025-07-08,Akasa Air,South,Delhi-Hyderabad,Domestic,Student,35,160580,128574,32006
+AS10080,2025-07-09,Vistara,North,Mumbai-Bengaluru,Domestic,Corporate,27,308529,245603,62926
+AS10035,2025-07-09,IndiGo,South,Delhi-Kolkata,Domestic,Business,174,1614024,1329729,284295
+AS10399,2025-07-09,Air India Express,East,Delhi-Bengaluru,Domestic,Student,8,49664,27566,22098
+AS10174,2025-07-09,Air India Express,North,Mumbai-Hyderabad,Domestic,Corporate,164,1390556,875969,514587
+AS10347,2025-07-10,SpiceJet,East,Bengaluru-Kolkata,Domestic,Business,77,871024,684278,186746
+AS10069,2025-07-10,Air India,East,Mumbai-Hyderabad,Domestic,Leisure,87,874785,497473,377312
+AS10328,2025-07-11,Akasa Air,South,Delhi-Bengaluru,Domestic,Student,59,271695,191148,80547
+AS10458,2025-07-11,Air India,North,Pune-Delhi,Domestic,Corporate,163,1690473,1214271,476202
+AS10022,2025-07-11,Akasa Air,South,Pune-Delhi,Domestic,Student,68,374952,268669,106283
+AS10293,2025-07-13,Air India,South,Bengaluru-Kolkata,Domestic,Leisure,49,347067,238333,108734
+AS10304,2025-07-14,IndiGo,Central,Mumbai-Chennai,Domestic,Leisure,65,484055,274944,209111
+AS10418,2025-07-15,Akasa Air,West,Delhi-Bengaluru,Domestic,Student,5,53815,32354,21461
+AS10182,2025-07-17,Air India Express,East,Pune-Delhi,Domestic,Corporate,122,1170102,1034740,135362
+AS10220,2025-07-17,IndiGo,North,Pune-Delhi,Domestic,Corporate,163,1818917,1504743,314174
+AS10231,2025-07-17,Air India,South,Chennai-Delhi,Domestic,Leisure,153,1561671,1174803,386868
+AS10247,2025-07-18,IndiGo,North,Bengaluru-Kolkata,Domestic,Student,30,297600,230995,66605
+AS10235,2025-07-20,SpiceJet,Central,Mumbai-Chennai,Domestic,Business,28,331800,268012,63788
+AS10112,2025-07-20,SpiceJet,Central,Mumbai-Delhi,Domestic,Leisure,192,2216256,1492034,724222
+AS10073,2025-07-21,Air India,North,Mumbai-Hyderabad,Domestic,Leisure,153,723384,542925,180459
+AS10223,2025-07-22,Akasa Air,East,Pune-Delhi,Domestic,Leisure,45,445950,313704,132246
+AS10474,2025-07-23,Vistara,North,Pune-Delhi,Domestic,Business,69,494247,439286,54961
+AS10060,2025-07-25,Vistara,Central,Mumbai-Chennai,Domestic,Student,86,316652,187874,128778
+AS10134,2025-07-26,SpiceJet,South,Mumbai-Delhi,Domestic,Leisure,11,99814,87165,12649
+AS10083,2025-07-27,Akasa Air,North,Delhi-Bengaluru,Domestic,Business,124,1064664,714396,350268
+AS10275,2025-07-27,Akasa Air,South,Mumbai-Chennai,Domestic,Leisure,7,31003,22549,8454
+AS10296,2025-07-27,SpiceJet,South,Chennai-Delhi,Domestic,Business,64,745472,666330,79142
+AS10082,2025-08-01,Air India,North,Delhi-Hyderabad,Domestic,Leisure,211,2375438,1959368,416070
+AS10123,2025-08-02,Air India,East,Pune-Delhi,Domestic,Leisure,17,103479,86423,17056
+AS10010,2025-08-03,Air India,Central,Bengaluru-Kolkata,Domestic,Corporate,213,1952784,1783591,169193
+AS10078,2025-08-03,Air India Express,East,Mumbai-Bengaluru,Domestic,Leisure,6,57276,47171,10105
+AS10393,2025-08-03,Air India,Central,Mumbai-Delhi,Domestic,Student,104,1128608,747692,380916
+AS10118,2025-08-04,Akasa Air,Central,Mumbai-Bengaluru,Domestic,Business,9,84078,58607,25471
+AS10088,2025-08-05,Akasa Air,East,Mumbai-Bengaluru,Domestic,Business,109,1073868,915347,158521
+AS10475,2025-08-06,Vistara,Central,Mumbai-Hyderabad,Domestic,Leisure,13,110318,85831,24487
+AS10070,2025-08-06,Vistara,East,Mumbai-Chennai,International,Student,166,1949504,1524843,424661
+AS10218,2025-08-06,Akasa Air,East,Delhi-Bengaluru,Domestic,Corporate,169,630708,409337,221371
+AS10130,2025-08-06,IndiGo,East,Delhi-Bengaluru,International,Student,41,393313,341448,51865
+AS10469,2025-08-08,SpiceJet,South,Chennai-Delhi,Domestic,Business,147,571683,334500,237183
+AS10332,2025-08-08,IndiGo,East,Bengaluru-Kolkata,Domestic,Business,170,1223830,757046,466784
+AS10209,2025-08-08,Vistara,North,Mumbai-Hyderabad,Domestic,Student,2,17690,15500,2190
+AS10481,2025-08-10,SpiceJet,South,Chennai-Delhi,Domestic,Leisure,22,145046,116454,28592
+AS10145,2025-08-10,SpiceJet,West,Delhi-Kolkata,Domestic,Leisure,76,399076,249185,149891
+AS10355,2025-08-11,Akasa Air,Central,Chennai-Delhi,Domestic,Business,69,283866,242646,41220
+AS10491,2025-08-11,Air India Express,South,Chennai-Delhi,Domestic,Business,21,244860,219905,24955
+AS10212,2025-08-12,Air India Express,Central,Delhi-Hyderabad,Domestic,Student,131,1145333,876630,268703
+AS10213,2025-08-13,Akasa Air,North,Delhi-Hyderabad,Domestic,Business,144,1456416,864839,591577
+AS10186,2025-08-13,SpiceJet,South,Pune-Delhi,Domestic,Leisure,2,12584,9349,3235
+AS10175,2025-08-13,Air India,Central,Mumbai-Bengaluru,Domestic,Business,82,918646,780343,138303
+AS10318,2025-08-14,Vistara,South,Delhi-Hyderabad,Domestic,Leisure,4,45112,31333,13779
+AS10287,2025-08-15,Vistara,North,Mumbai-Bengaluru,International,Corporate,146,1719442,1229681,489761
+AS10125,2025-08-15,Air India Express,East,Mumbai-Hyderabad,Domestic,Leisure,21,102438,64156,38282
+AS10439,2025-08-17,Vistara,East,Bengaluru-Kolkata,Domestic,Leisure,190,698060,547075,150985
+AS10312,2025-08-18,Air India,Central,Mumbai-Chennai,Domestic,Corporate,120,681120,378302,302818
+AS10173,2025-08-19,Akasa Air,West,Pune-Delhi,Domestic,Leisure,127,857631,734477,123154
+AS10108,2025-08-19,IndiGo,Central,Delhi-Kolkata,Domestic,Business,90,883620,556395,327225
+AS10141,2025-08-19,Air India Express,North,Delhi-Bengaluru,Domestic,Student,1,5516,3889,1627
+AS10146,2025-08-19,Akasa Air,West,Bengaluru-Kolkata,Domestic,Student,72,786960,604689,182271
+AS10337,2025-08-21,IndiGo,Central,Chennai-Delhi,Domestic,Corporate,124,653728,539932,113796
+AS10179,2025-08-21,Air India,West,Delhi-Bengaluru,Domestic,Student,84,647976,421478,226498
+AS10271,2025-08-21,Vistara,West,Bengaluru-Kolkata,Domestic,Business,34,163064,90620,72444
+AS10194,2025-08-21,Akasa Air,North,Mumbai-Hyderabad,International,Leisure,205,1477845,1063900,413945
+AS10188,2025-08-22,SpiceJet,North,Mumbai-Hyderabad,Domestic,Student,29,145696,127807,17889
+AS10028,2025-08-24,SpiceJet,East,Mumbai-Hyderabad,Domestic,Student,45,165915,102905,63010
+AS10084,2025-08-25,Akasa Air,North,Delhi-Hyderabad,International,Student,106,1130066,993690,136376
+AS10147,2025-08-25,Akasa Air,West,Mumbai-Delhi,Domestic,Corporate,200,2134000,1495558,638442
+AS10455,2025-08-25,Akasa Air,North,Delhi-Hyderabad,Domestic,Business,4,19172,10721,8451
+AS10473,2025-08-26,IndiGo,Central,Pune-Delhi,International,Student,187,1171181,744161,427020
+AS10309,2025-08-26,Vistara,South,Bengaluru-Kolkata,Domestic,Business,178,2034006,1382259,651747
+AS10448,2025-08-27,Air India Express,Central,Mumbai-Chennai,Domestic,Corporate,181,1725473,1079355,646118
+AS10232,2025-08-28,Air India,East,Chennai-Delhi,Domestic,Corporate,23,85445,65186,20259
+AS10142,2025-08-29,Akasa Air,North,Delhi-Bengaluru,Domestic,Student,168,885696,651012,234684
+AS10052,2025-08-30,SpiceJet,East,Delhi-Bengaluru,Domestic,Business,199,1012512,768045,244467
+AS10156,2025-08-31,IndiGo,East,Mumbai-Delhi,Domestic,Corporate,197,1519461,898602,620859
+AS10040,2025-09-01,Vistara,Central,Delhi-Bengaluru,Domestic,Business,26,259090,199572,59518
+AS10486,2025-09-03,Akasa Air,North,Pune-Delhi,Domestic,Student,54,618354,385979,232375
+AS10371,2025-09-03,Akasa Air,East,Delhi-Hyderabad,Domestic,Business,51,396576,310564,86012
+AS10375,2025-09-04,Vistara,East,Mumbai-Chennai,Domestic,Student,21,153972,96139,57833
+AS10221,2025-09-04,Akasa Air,Central,Mumbai-Delhi,Domestic,Corporate,65,229125,174503,54622
+AS10462,2025-09-04,Air India Express,South,Mumbai-Bengaluru,Domestic,Leisure,116,1221712,1102971,118741
+AS10484,2025-09-07,Air India Express,Central,Delhi-Bengaluru,Domestic,Student,171,1294128,1135333,158795
+AS10492,2025-09-07,Air India,Central,Bengaluru-Kolkata,Domestic,Leisure,208,751296,628900,122396
+AS10079,2025-09-09,SpiceJet,Central,Mumbai-Chennai,Domestic,Business,218,1841010,1158781,682229
+AS10242,2025-09-09,Air India Express,North,Pune-Delhi,Domestic,Business,173,898908,748769,150139
+AS10089,2025-09-09,Air India,East,Delhi-Hyderabad,Domestic,Business,99,946044,699797,246247
+AS10259,2025-09-09,Vistara,East,Mumbai-Bengaluru,Domestic,Corporate,23,229402,200369,29033
+AS10348,2025-09-10,SpiceJet,North,Mumbai-Chennai,Domestic,Business,59,475363,393052,82311
+AS10027,2025-09-10,IndiGo,East,Chennai-Delhi,International,Leisure,8,91504,69134,22370
+AS10266,2025-09-11,Air India,North,Delhi-Bengaluru,Domestic,Student,100,1068600,747689,320911
+AS10480,2025-09-11,Air India,North,Delhi-Kolkata,Domestic,Corporate,114,450414,410412,40002
+AS10286,2025-09-11,IndiGo,Central,Mumbai-Chennai,Domestic,Business,188,1830368,1035713,794655
+AS10226,2025-09-12,Air India,East,Mumbai-Bengaluru,Domestic,Leisure,101,868802,696103,172699
+AS10131,2025-09-12,Vistara,Central,Delhi-Kolkata,Domestic,Business,39,464802,261661,203141
+AS10350,2025-09-13,IndiGo,Central,Bengaluru-Kolkata,Domestic,Corporate,126,1483650,1106251,377399
+AS10495,2025-09-14,SpiceJet,Central,Mumbai-Delhi,Domestic,Student,169,614991,437317,177674
+AS10128,2025-09-14,IndiGo,South,Delhi-Kolkata,Domestic,Leisure,167,1549259,1348043,201216
+AS10019,2025-09-15,Air India,North,Delhi-Bengaluru,Domestic,Leisure,201,1687797,1516098,171699
+AS10240,2025-09-16,Vistara,South,Mumbai-Delhi,Domestic,Student,164,950380,702849,247531
+AS10180,2025-09-16,Air India Express,North,Mumbai-Bengaluru,Domestic,Leisure,113,760151,483273,276878
+AS10067,2025-09-17,Air India,Central,Chennai-Delhi,Domestic,Business,1,5089,3976,1113
+AS10107,2025-09-18,SpiceJet,South,Delhi-Bengaluru,International,Student,97,1027618,726695,300923
+AS10419,2025-09-19,Air India Express,East,Delhi-Hyderabad,Domestic,Leisure,209,1131526,864679,266847
+AS10258,2025-09-20,Air India,East,Delhi-Hyderabad,Domestic,Leisure,63,717444,518045,199399
+AS10058,2025-09-21,Vistara,North,Pune-Delhi,Domestic,Leisure,173,1915110,1054740,860370
+AS10315,2025-09-21,SpiceJet,East,Mumbai-Hyderabad,International,Business,67,490708,340084,150624
+AS10412,2025-09-21,IndiGo,Central,Mumbai-Delhi,Domestic,Student,54,475740,332477,143263
+AS10386,2025-09-21,IndiGo,Central,Pune-Delhi,Domestic,Corporate,111,748140,661464,86676
+AS10053,2025-09-22,Air India,North,Pune-Delhi,Domestic,Corporate,92,539856,386943,152913
+AS10254,2025-09-24,Air India,East,Delhi-Bengaluru,International,Student,156,1339260,1173430,165830
+AS10114,2025-09-25,SpiceJet,Central,Mumbai-Delhi,Domestic,Business,106,996824,689617,307207
+AS10199,2025-09-25,IndiGo,Central,Pune-Delhi,Domestic,Corporate,118,527696,374112,153584
+AS10427,2025-09-26,Air India Express,Central,Bengaluru-Kolkata,Domestic,Business,115,803735,573812,229923
+AS10074,2025-09-27,Air India,Central,Mumbai-Hyderabad,Domestic,Business,210,2252460,2021968,230492
+AS10077,2025-09-28,Air India,South,Delhi-Hyderabad,Domestic,Business,12,109020,84859,24161
+AS10409,2025-09-28,Vistara,North,Mumbai-Hyderabad,Domestic,Corporate,117,427284,235851,191433
+AS10034,2025-09-28,SpiceJet,West,Mumbai-Bengaluru,Domestic,Leisure,76,660060,489244,170816
+AS10003,2025-09-28,Akasa Air,North,Mumbai-Hyderabad,Domestic,Business,176,1942512,1324144,618368
+AS10456,2025-09-29,IndiGo,Central,Mumbai-Delhi,Domestic,Student,135,1116315,684781,431534
+AS10368,2025-09-30,Vistara,East,Mumbai-Hyderabad,Domestic,Business,98,399840,281343,118497
+AS10048,2025-10-01,SpiceJet,West,Pune-Delhi,Domestic,Business,157,1442202,1088502,353700
+AS10435,2025-10-02,IndiGo,South,Delhi-Hyderabad,Domestic,Leisure,183,921954,630708,291246
+AS10319,2025-10-04,Air India,West,Delhi-Bengaluru,Domestic,Leisure,154,1108184,674563,433621
+AS10023,2025-10-04,SpiceJet,Central,Mumbai-Delhi,Domestic,Corporate,35,170835,155720,15115
+AS10301,2025-10-04,IndiGo,North,Delhi-Hyderabad,International,Business,116,1069752,838509,231243
+AS10460,2025-10-05,IndiGo,South,Mumbai-Delhi,Domestic,Leisure,73,541806,480462,61344
+AS10442,2025-10-06,Akasa Air,East,Mumbai-Hyderabad,Domestic,Leisure,143,1095380,997312,98068
+AS10087,2025-10-07,Vistara,East,Delhi-Hyderabad,Domestic,Corporate,93,620031,538613,81418
+AS10228,2025-10-07,Vistara,South,Pune-Delhi,Domestic,Student,62,432946,358838,74108
+AS10499,2025-10-07,Akasa Air,West,Mumbai-Bengaluru,International,Student,30,286290,189878,96412
+AS10339,2025-10-07,Air India,Central,Delhi-Bengaluru,Domestic,Leisure,35,382305,292970,89335
+AS10361,2025-10-07,SpiceJet,East,Bengaluru-Kolkata,International,Corporate,86,325854,274069,51785
+AS10354,2025-10-08,Akasa Air,Central,Pune-Delhi,Domestic,Corporate,68,693328,549283,144045
+AS10316,2025-10-10,Air India Express,South,Delhi-Kolkata,International,Business,75,446325,354881,91444
+AS10176,2025-10-10,Akasa Air,South,Mumbai-Delhi,Domestic,Business,147,720447,605861,114586
+AS10133,2025-10-10,IndiGo,East,Chennai-Delhi,Domestic,Leisure,192,1625856,1141668,484188
+AS10322,2025-10-11,SpiceJet,North,Pune-Delhi,Domestic,Student,107,670355,476133,194222
+AS10164,2025-10-11,Air India Express,West,Chennai-Delhi,Domestic,Leisure,215,1578315,1338667,239648
+AS10158,2025-10-11,Air India Express,North,Pune-Delhi,Domestic,Student,153,1561824,1313514,248310
+AS10468,2025-10-12,Air India,Central,Delhi-Bengaluru,Domestic,Leisure,72,714672,588896,125776
+AS10169,2025-10-13,Air India,North,Mumbai-Hyderabad,Domestic,Corporate,146,1691848,1090068,601780
+AS10320,2025-10-13,Air India,North,Mumbai-Delhi,Domestic,Corporate,155,1111970,717827,394143
+AS10392,2025-10-15,SpiceJet,South,Mumbai-Hyderabad,Domestic,Leisure,82,303810,231299,72511
+AS10363,2025-10-15,Vistara,Central,Mumbai-Delhi,Domestic,Student,123,1244022,1028433,215589
+AS10300,2025-10-16,Air India,East,Mumbai-Hyderabad,Domestic,Business,176,1256288,864450,391838
+AS10106,2025-10-16,SpiceJet,South,Bengaluru-Kolkata,Domestic,Business,124,675552,460252,215300
+AS10479,2025-10-16,Air India,West,Chennai-Delhi,International,Business,208,2238496,1646599,591897
+AS10449,2025-10-17,Akasa Air,East,Mumbai-Chennai,Domestic,Leisure,206,1739876,984189,755687
+AS10489,2025-10-17,Air India Express,South,Mumbai-Delhi,Domestic,Leisure,64,515776,398759,117017
+AS10119,2025-10-20,Air India,West,Chennai-Delhi,Domestic,Leisure,88,423808,313633,110175
+AS10021,2025-10-21,Vistara,North,Mumbai-Chennai,Domestic,Leisure,137,1496999,829708,667291
+AS10227,2025-10-21,Akasa Air,South,Delhi-Hyderabad,Domestic,Student,213,2237778,1571792,665986
+AS10200,2025-10-22,Air India,East,Bengaluru-Kolkata,International,Leisure,201,1450818,1195519,255299
+AS10081,2025-10-23,Vistara,North,Delhi-Hyderabad,Domestic,Corporate,136,1430176,1050142,380034
+AS10256,2025-10-25,Air India,West,Bengaluru-Kolkata,Domestic,Leisure,79,364664,294645,70019
+AS10370,2025-10-26,Akasa Air,West,Mumbai-Delhi,Domestic,Student,109,1302005,1113215,188790
+AS10094,2025-10-28,IndiGo,North,Mumbai-Chennai,Domestic,Business,84,950712,758810,191902
+AS10341,2025-10-29,Air India,South,Mumbai-Hyderabad,Domestic,Corporate,134,557440,398139,159301
+AS10274,2025-10-31,Air India Express,South,Chennai-Delhi,Domestic,Business,165,1665345,941810,723535
+AS10265,2025-10-31,Vistara,South,Pune-Delhi,Domestic,Corporate,118,1033444,882170,151274
+AS10076,2025-10-31,Akasa Air,North,Delhi-Bengaluru,International,Leisure,61,635559,520216,115343
+AS10302,2025-10-31,Akasa Air,North,Pune-Delhi,Domestic,Student,184,1461696,855512,606184
+AS10324,2025-10-31,IndiGo,North,Mumbai-Chennai,Domestic,Leisure,219,2585733,2237839,347894
+AS10405,2025-11-01,Air India,Central,Mumbai-Delhi,Domestic,Leisure,118,832018,674998,157020
+AS10378,2025-11-02,SpiceJet,South,Mumbai-Chennai,Domestic,Student,103,1033502,735311,298191
+AS10043,2025-11-03,IndiGo,North,Delhi-Hyderabad,Domestic,Corporate,150,1336350,768780,567570
+AS10187,2025-11-03,SpiceJet,East,Mumbai-Delhi,Domestic,Corporate,191,1444533,1219127,225406
+AS10248,2025-11-04,IndiGo,East,Delhi-Bengaluru,Domestic,Business,188,2078716,1802671,276045
+AS10425,2025-11-04,SpiceJet,North,Delhi-Hyderabad,Domestic,Corporate,70,361270,283321,77949
+AS10018,2025-11-05,Air India,West,Mumbai-Chennai,Domestic,Student,161,1074675,720401,354274
+AS10068,2025-11-06,SpiceJet,Central,Delhi-Hyderabad,Domestic,Leisure,72,263448,181308,82140
+AS10294,2025-11-06,Vistara,West,Mumbai-Bengaluru,Domestic,Leisure,113,848517,480912,367605
+AS10424,2025-11-07,IndiGo,South,Bengaluru-Kolkata,Domestic,Leisure,12,48096,37459,10637
+AS10381,2025-11-09,Vistara,North,Mumbai-Delhi,Domestic,Corporate,92,840328,694751,145577
+AS10025,2025-11-10,Akasa Air,West,Mumbai-Bengaluru,Domestic,Corporate,216,1496016,1126021,369995
+AS10402,2025-11-10,Vistara,East,Mumbai-Hyderabad,Domestic,Leisure,145,982085,545867,436218
+AS10191,2025-11-11,Vistara,West,Delhi-Kolkata,Domestic,Leisure,194,1459850,1026816,433034
+AS10380,2025-11-12,Vistara,Central,Pune-Delhi,Domestic,Business,129,1007103,589055,418048
+AS10050,2025-11-12,Air India,South,Delhi-Kolkata,Domestic,Student,132,828960,671791,157169
+AS10323,2025-11-13,Air India Express,Central,Delhi-Kolkata,Domestic,Leisure,192,1510848,1263812,247036
+AS10184,2025-11-14,Akasa Air,South,Delhi-Bengaluru,Domestic,Business,41,382038,327285,54753
+AS10197,2025-11-14,Akasa Air,North,Mumbai-Bengaluru,Domestic,Corporate,210,2103360,1456318,647042
+AS10441,2025-11-14,SpiceJet,North,Chennai-Delhi,Domestic,Corporate,151,1175837,927000,248837
+AS10434,2025-11-15,SpiceJet,Central,Bengaluru-Kolkata,Domestic,Corporate,70,405440,347927,57513
+AS10041,2025-11-16,Air India,North,Delhi-Bengaluru,Domestic,Student,52,259844,159461,100383
+AS10385,2025-11-17,Akasa Air,North,Mumbai-Delhi,Domestic,Business,141,1069062,914968,154094
+AS10391,2025-11-18,Air India,East,Mumbai-Hyderabad,Domestic,Student,99,1007820,728004,279816
+AS10351,2025-11-19,Air India,West,Mumbai-Hyderabad,Domestic,Leisure,145,713690,610625,103065
+AS10358,2025-11-19,Air India Express,West,Pune-Delhi,Domestic,Student,141,841488,718638,122850
+AS10222,2025-11-20,IndiGo,Central,Chennai-Delhi,Domestic,Student,55,603240,551911,51329
+AS10229,2025-11-21,Air India Express,West,Mumbai-Delhi,Domestic,Leisure,49,269206,168349,100857
+AS10496,2025-11-21,Akasa Air,North,Mumbai-Chennai,Domestic,Corporate,152,748448,521298,227150
+AS10487,2025-11-21,Air India Express,East,Bengaluru-Kolkata,Domestic,Student,138,1130220,712043,418177
+AS10238,2025-11-22,SpiceJet,South,Mumbai-Delhi,Domestic,Leisure,107,1205141,858621,346520
+AS10408,2025-11-22,Air India Express,North,Chennai-Delhi,Domestic,Corporate,91,917189,678082,239107
+AS10097,2025-11-23,Vistara,West,Bengaluru-Kolkata,Domestic,Business,141,1302558,1031597,270961
+AS10154,2025-11-23,Vistara,South,Delhi-Bengaluru,Domestic,Student,90,454320,318590,135730
+AS10113,2025-11-24,Vistara,West,Pune-Delhi,Domestic,Corporate,62,249364,218801,30563
+AS10046,2025-11-25,SpiceJet,North,Chennai-Delhi,Domestic,Leisure,38,312626,224924,87702
+AS10011,2025-11-27,Air India,West,Delhi-Kolkata,International,Student,149,1152664,968697,183967
+AS10170,2025-11-27,Air India,Central,Delhi-Kolkata,Domestic,Leisure,194,1097652,905273,192379
+AS10500,2025-12-02,Akasa Air,West,Pune-Delhi,Domestic,Business,57,597873,450912,146961
+AS10085,2025-12-04,SpiceJet,South,Mumbai-Delhi,Domestic,Business,193,1039112,603923,435189
+AS10292,2025-12-04,Air India Express,West,Mumbai-Hyderabad,Domestic,Leisure,139,1620045,1115494,504551
+AS10251,2025-12-04,Vistara,North,Mumbai-Chennai,Domestic,Student,32,315296,276728,38568
+AS10168,2025-12-06,SpiceJet,Central,Mumbai-Hyderabad,Domestic,Business,82,342268,258327,83941
+AS10056,2025-12-06,SpiceJet,East,Pune-Delhi,Domestic,Corporate,150,949200,706707,242493
+AS10285,2025-12-06,IndiGo,Central,Mumbai-Bengaluru,Domestic,Business,202,1913546,1719784,193762
+AS10476,2025-12-07,SpiceJet,Central,Pune-Delhi,International,Corporate,175,871675,558853,312822
+AS10404,2025-12-08,IndiGo,North,Mumbai-Chennai,Domestic,Business,164,1184408,1053108,131300
+AS10394,2025-12-08,Akasa Air,West,Mumbai-Delhi,International,Student,214,1731474,1156102,575372
+AS10364,2025-12-08,Vistara,North,Pune-Delhi,International,Student,87,587424,355817,231607
+AS10211,2025-12-09,IndiGo,West,Delhi-Bengaluru,Domestic,Student,166,763932,599546,164386
+AS10020,2025-12-10,IndiGo,West,Pune-Delhi,Domestic,Leisure,189,1613493,1433508,179985
+AS10099,2025-12-10,Air India,North,Mumbai-Chennai,Domestic,Corporate,49,455357,258873,196484
+AS10096,2025-12-11,SpiceJet,East,Chennai-Delhi,Domestic,Leisure,177,1083948,677997,405951
+AS10029,2025-12-11,Vistara,North,Mumbai-Hyderabad,International,Leisure,87,775083,593254,181829
+AS10261,2025-12-12,IndiGo,West,Pune-Delhi,Domestic,Business,75,468225,279592,188633
+AS10136,2025-12-12,SpiceJet,East,Chennai-Delhi,Domestic,Student,139,800223,686949,113274
+AS10054,2025-12-12,Akasa Air,South,Delhi-Hyderabad,Domestic,Corporate,28,260092,207725,52367
+AS10243,2025-12-12,IndiGo,West,Mumbai-Delhi,Domestic,Student,119,648074,519231,128843
+AS10438,2025-12-12,Vistara,South,Mumbai-Delhi,International,Corporate,161,869883,776168,93715
+AS10172,2025-12-14,SpiceJet,South,Mumbai-Bengaluru,International,Student,161,895804,781925,113879
+AS10340,2025-12-15,Air India Express,North,Delhi-Hyderabad,Domestic,Leisure,87,554277,332261,222016
+AS10002,2025-12-15,Air India,West,Mumbai-Hyderabad,Domestic,Leisure,113,1239610,795133,444477
+AS10239,2025-12-15,Air India Express,East,Delhi-Bengaluru,Domestic,Corporate,146,1378094,1257870,120224
+AS10291,2025-12-15,Air India,East,Bengaluru-Kolkata,International,Student,126,647136,525121,122015
+AS10461,2025-12-15,Akasa Air,West,Mumbai-Delhi,Domestic,Student,72,611784,481132,130652
+AS10421,2025-12-16,IndiGo,North,Pune-Delhi,Domestic,Corporate,20,131440,114525,16915
+AS10075,2025-12-17,Air India Express,South,Mumbai-Delhi,Domestic,Business,145,1318050,832452,485598
+AS10246,2025-12-18,Air India,North,Chennai-Delhi,Domestic,Student,122,1066402,892899,173503
+AS10140,2025-12-18,Air India,South,Delhi-Hyderabad,Domestic,Leisure,45,247725,208107,39618
+AS10390,2025-12-20,Air India Express,East,Mumbai-Hyderabad,Domestic,Leisure,17,106233,58652,47581
+AS10377,2025-12-21,IndiGo,North,Chennai-Delhi,Domestic,Corporate,139,678320,557853,120467
+AS10423,2025-12-21,Air India Express,South,Pune-Delhi,Domestic,Corporate,46,168636,115928,52708
+AS10482,2025-12-23,Air India Express,North,Mumbai-Bengaluru,Domestic,Leisure,93,407526,280750,126776
+AS10181,2025-12-25,SpiceJet,South,Mumbai-Delhi,Domestic,Business,76,474620,316991,157629
+AS10132,2025-12-25,IndiGo,West,Mumbai-Delhi,Domestic,Leisure,141,1248555,1050444,198111
+AS10359,2025-12-26,SpiceJet,North,Delhi-Kolkata,Domestic,Leisure,162,1151334,829839,321495
+AS10122,2025-12-26,Akasa Air,South,Mumbai-Chennai,Domestic,Leisure,41,365843,240671,125172
+AS10014,2025-12-26,Vistara,West,Delhi-Kolkata,Domestic,Student,20,215900,181133,34767
+AS10063,2025-12-26,Air India,Central,Pune-Delhi,Domestic,Student,162,1468530,923472,545058
+AS10252,2025-12-26,SpiceJet,Central,Mumbai-Chennai,Domestic,Corporate,195,1059240,669548,389692
+AS10038,2025-12-30,Air India Express,West,Mumbai-Chennai,Domestic,Student,105,1188915,957335,231580
+AS10313,2025-12-31,Air India Express,South,Delhi-Hyderabad,Domestic,Student,88,637384,399435,237949
+AS10420,2025-12-31,Air India Express,South,Delhi-Bengaluru,Domestic,Corporate,184,1999160,1520779,478381
